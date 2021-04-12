@@ -10,7 +10,7 @@
 - O servidor roda a aplicação com yarn dev.
 -Abra [http://localhost:3333] no seu browser.
 
-#rotas
+# rotas
 - método post - /user - criação de usuários
 - método post - /surveys - criação de pesquisa
 - método get - /surveys - mostra a lista de pesquisas
