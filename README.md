@@ -2,13 +2,13 @@
 
 # Sobre
 - Este projeto é uma aplicação nodejs.
-- A Aplicação cria pesquisar de satisfação e encaminha pro email para usuários cadastrados.
-- Seu objetivo é adquirir pontos na disciplina de arquitetura de software da PUC MINAS.
+- A Aplicação cria pesquisar de satisfação e encaminha para um email de um usuários cadastrados.
+- O objetivo do projeto é adquirir pontos na disciplina arquitetura de software da PUC MINAS.
 
 # Como executar a aplicação
-- Após clonar o projeto, deve rodar o comando yarn no terminal na pasta do projeto.
-- O servidor roda a aplicação com yarn dev.
--Abra [http://localhost:3333] no seu browser.
+- Após clonar o projeto, deve escrever o comando yarn no terminal.
+- Para iniciar o servidor deve escrever o comando yarn dev.
+- Abra [http://localhost:3333] no seu browser.
 
 # rotas
 - método post - /user - criação de usuários
